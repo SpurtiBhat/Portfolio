@@ -5,4 +5,4 @@ Download this template and use it to build a simple portfolio website. There are
 
 https://docs.google.com/presentation/d/1ybdws_K_1xUW_wzs9dlSobAagYgSCbpZaJKJ1cLyp6k/edit?usp=sharing
 
-Using this template requires a basic understanding of HTML and CSS
+Using this template requires a basic understanding of HTML and CSS.
